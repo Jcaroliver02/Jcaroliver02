@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcaroliver02&show_icons=true&theme=radical)
+##
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcaroliver02&show_icons=true&theme=radical)
+##
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30px width=30px />
