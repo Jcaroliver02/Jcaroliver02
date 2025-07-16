@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Jcaroliver02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Olá! Eu sou a Jéssica Carvalho de Oliveira
+
+🎓 Formada em **Sistemas de Informação**  
+💻 Apaixonada por tecnologia, interfaces acessíveis e experiências digitais que fazem a diferença  
+🌱 Aprimorando habilidades em **HTML, CSS, JavaScript** e **React Native**  
+🚀 Em busca da minha primeira oportunidade como **Desenvolvedora Frontend Júnior**
+
+---
 ##
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcaroliver02&show_icons=true&theme=radical)
 ##
