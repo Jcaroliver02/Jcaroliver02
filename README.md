@@ -34,18 +34,8 @@ Página de apresentação de produtos de bijuterias com design atrativo.
 🌍 **Portfólio em construção...** em breve!
 
 ---
-##
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcaroliver02&show_icons=true&theme=radical)
-##
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30px width=30px />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=30px width=30px/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=30px width=30px />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=30px width=30px  />
           
                     
     
