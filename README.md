@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Formada em <strong>Sistemas de Informação</strong> <br>
-  💻 Apaixonada por desenvolvimento Frontend e experiências digitais incríveis <br>
+  💻 Apaixonada por desenvolvimento Frontend, dedicada a criar experiências que fazem sentido para o usuário." <br>
   🚀 Em busca da minha primeira oportunidade como <strong>Desenvolvedora Frontend Júnior</strong>
 </p>
 
